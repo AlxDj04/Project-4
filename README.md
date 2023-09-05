@@ -1,7 +1,7 @@
 # Project-4
 Final project Data Analytics
 
-This repository provides an overview of Project 4, describing the requirements, implementation details, unsupervised learning model optimization, GitHub documentation, and group presentation details.
+This repository provides an overview of Project 4, describing the requirements and implementation details.
 
 - A Python script initializes, trains, and evaluates an unsupervised learning model using Pandas, Jupyter, and Matplotlib.
 - Data is cleaned, normalized, and standardized before modeling.
