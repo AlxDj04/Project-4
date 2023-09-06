@@ -8,10 +8,10 @@ This repository provides an overview of Project 4, describing the requirements a
 - The model utilizes data retrieved from SQL, and interactive visualizations are incorporated using HTML, CSS, and JavaScript.
 
 ### Data Preprocessing
-- Explain how data cleaning, normalization, and standardization were performed, highlighting the use of Pandas.
+- Explain the data  normalization, and standardization were performed, highlighting the use of Pandas.
 
 ### Data Retrieval
-- Clarify how data from YouTubers' categories, their viewers, etc., were obtained from SQL and incorporated into your project.
+- Clarify how data from YouTubers' categories, their viewers, etc., were obtained from SQL and incorporated into the project.
 
 ### Interactive Visualizations
 - Detail how HTML, CSS, and JavaScript were used to create interactive visualizations that enhance the project presentation, including a Tableau Public visualization.
